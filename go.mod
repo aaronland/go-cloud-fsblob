@@ -1,4 +1,4 @@
-module github.com/aaronland/gocloud-blob-fsblob
+module github.com/aaronland/go-cloud-fsblob
 
 go 1.12
 
